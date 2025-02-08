@@ -2,7 +2,8 @@
 # Awesome NoCode / LowCode
 A curated list of delightful NoCode / LowCode applications and resources. For more awesomeness, check out [awesome](https://github.com/sindresorhus/awesome).
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![Build Status](https://travis-ci.org/kairichard/awesome-nocode-lowcode.svg)](https://travis-ci.org/kairichard/awesome-nocode-lowcode)
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ![example workflow](https://github.com/kairichard/awesome-nocode-lowcode/actions/workflows/validate.yml/badge.svg)
+
 </div>
 <br/>
 
@@ -60,14 +61,13 @@ A curated list of delightful NoCode / LowCode applications and resources. For mo
 
 - [ActionDesk](https://actiondesk.io) - The spreadsheet that lets you gather and control all your data in one place.
 - [Activepieces](https://www.activepieces.com) - A no-code tool to automate your business.
-- [Automate.io](https://automate.io) - Put your business on autopilot. Connect 100+ business apps.
 - [Blockspring](https://blockspring.com) - Supercharge your list building, reporting, and landing pages.
 - [Clay](https://clay.run) - Build tools & workflows to supercharge your team
-- [Cronit](https://cronit.app) - Plan, schedule and run recurring cron jobs online
 - [IFTTT](https://ifttt.com) - Do more with the services you love.
-- [Integromat](https://integromat.com) - The glue of the internet.
+- [Make (formerly Integromat](https://www.make.com/) - The glue of the internet.
+- [Lil'bots](https://www.lilbots.io) - AI bot marketplace - build, deploy and share AI powered bots, with built in API access to top-tier AI services.
 - [Linx](https://linx.software) - Low-code Development for IT Pros
-- [Microsoft Flow](https://flow.microsoft.com) - Automate tasks by integrating your favorite apps.
+- [Microsoft Power Automate](https://flow.microsoft.com) - Previously known as Microsoft Flow, is a SaaS platform by Microsoft for optimizing and automating workflows and business processes.empowering Dynamics 365 line of Products. 
 - [n8n](https://n8n.io) - Free Self-hostable Automation Tool
 - [Nanonets Airtable Models](https://nanonets.com/airtable/) - Build a no-code AI image organizer with Airtable
 - [Oplim](https://oplim.com) - Custom Tasks on Your Website with Zero Code
@@ -75,14 +75,17 @@ A curated list of delightful NoCode / LowCode applications and resources. For mo
 - [Phantombuster](https://phantombuster.com) - A marketplace of simple to use no-code APIs
 - [pipedream](https://pipedream.com/) - The integration platform built for developers
 - [Simple scraper](https://simplescraper.io) - The web is your API
-- [stdlib](https://stdlib.com/) -  An online IDE for connecting APIs together
+- [Autocode](https://autocode.com/) -  Turn ideas into software with AI
 - [Tiller Money](https://www.tillerhq.com) - Your financial life in a spreadsheet, automatically updated each day.
 - [Tray](https://tray.io) - Advanced integration platform for connecting up the tools you use every day.
-- [Webmerge](https://www.webmerge.me/) - Document automation software
+- [Formstack](https://www.webmerge.me/) - Document automation software
 - [Zapier](https://zapier.com) - Automate tasks by integrating your favorite apps.
 - [Diagram](https://www.ondiagram.com) - Nocode backend API builder with MongoDB and Firestore.
 - [Outfunnel](https://outfunnel.com) - Connect your sales and marketing data, deeply and easily.
 - [YepCode](https://yepcode.io) - All-in-one platform to connect APIs and services in a serverless environment.
+- [Unito](https://unito.io/) - Bidirectional realtime sync between online apis
+- [Deployment.io](https://deployment.io) - DevOps co-pilot for developers to automate deployments to AWS.
+- [MindStudio](https://mindstudio.ai) - MindStudio lets you rapidly build, deploy, and operate AI Workers — automations, applications, agents. Anyone can build AI Workers rapidly (typically in under 30 minutes). Over 150k AI Workers are deployed across all types of use cases and organizations. AI Workers can be triggered from browser extensions, run automatically on a schedule, be used as components in Zapier, Make, or any other orchestration platform, or integrated into any application that can call an API.
 
 ## Business Apps
 
@@ -97,7 +100,7 @@ A curated list of delightful NoCode / LowCode applications and resources. For mo
 - [Logic Apps](https://azure.microsoft.com/en-us/services/logic-apps/) - Connect your business-critical apps and services with Azure Logic Apps, automating your workflows without writing a single line of code.
 - [Lowdefy](https://lowdefy.com) - An open-source low-code framework to build internal tools, web apps, admin panels, BI dashboards, workflows, and CRUD apps with ease by simply writing YAML.
 - [Mintdata](https://mintdata.com/) - Use the full power of a spreadsheet to create application logic.
-- [Naologic](https://naologic.com) - No-code App Builder for enterprise resource planning (ERP) apps
+- [Naologic](https://naologic.com) - Productivity apps built by business users and process-driven professionals to simplify and automate complex processes.
 - [Ninox](https://ninoxdb.de) - Create Business Apps for Mac, iPad and iPhone.
 - [Nussknacker](https://nussknacker.io) - A visual tool to define and run real-time decision algorithms.
 - [Triggre](https://www.triggre.com/) - Replace outdated software with custom no-code business applications.
@@ -109,17 +112,15 @@ A curated list of delightful NoCode / LowCode applications and resources. For mo
 
 ## Chatbots
 
-
+- [BESSER Bot Framework](https://besser-bot-framework.readthedocs.io/latest/) - Design and implement chatbots in Python 
 - [Botnation](https://botnation.ai/en/) - Create chatbots, landbots, voicebots, callbots on Messenger, Web, Google Home, Phone device.
 - [Botsify](https://botsify.com) - Create your own automated chatbots online.
 - [Chatamo](https://chatamo.com) - Create intelligent voice and chat bots for marketing, sales and support in minutes.
 - [Chatfuel](https://chatfuel.com) - Create chatbots to engage with your audience on messengers
 - [Flow XO](https://flowxo.com) - Create a chatbot with zero coding skills required
 - [Instabot](https://instabot.io) - A Conversion Chatbot for Your Website
-- [It's Alive](https://itsalive.io) - Create a Facebook bot in minutes
 - [Landbot](https://landbot.io) - Lead generation landing page as chatbot.
 - [Manychat](https://manychat.com) - Create a Messenger bot to engage your audience. No coding!
-- [Rota.rocks](https://rota.rocks) - Convert your Wordpress posts to an iOS app.
 - [rulai](https://www.rul.ai) - AI Chatbot to Deliver Scalable Self Service
 - [Smooch](https://smooch.io) - Instantly deploy your bots wherever users are.
 
@@ -137,6 +138,7 @@ A curated list of delightful NoCode / LowCode applications and resources. For mo
 ## Data & Scraping
 
 - [APIFY](https://apify.com/) - Extract data from any website
+- [SmartXML]([https://apify.com/](https://redata.dev/smartxml/)) - An application for parsing XML of any complexity with support SQLite and PostgreSQL
 - [flatfile](https://flatfile.io/) - The elegant import button for your web app
 - [Hunter](https://hunter.io/?via=joe) - Find email addresses in seconds.
 - [Simplescraper](https://simplescraper.io/) - Extract data from any website in seconds
@@ -153,10 +155,10 @@ A curated list of delightful NoCode / LowCode applications and resources. For mo
 - [Motor Admin](https://www.getmotoradmin.com/) - Open-source, self-hosted Admin Panel and Business Intelligence software.
 - [PostGraphile](https://www.graphile.org/) - Extensible high-performance automatic GraphQL API for PostgreSQL
 - [ResponseVault](https://ResponseVault.com) - Use a grid-based form builder in your custom app.
-- [Tabbli](https://tabbli.com/) - Manage your business data and automate processes.
 - [Tadabase](https://tadabase.io) - No Code Database Web App Builder
 - [Trevor](https://www.trevor.io) - Query your live data, without code.
 - [Draxlr](https://www.draxlr.com) - Build Dashboards, Get Alerts.
+- [Dashbase](https://www.dashbase.ai) - Build collaborative KPI dashboards from your SQL database.
 
 ## Design
 
@@ -169,7 +171,6 @@ A curated list of delightful NoCode / LowCode applications and resources. For mo
 
 - [Big Cartel](https://www.bigcartel.com) - Easy online stores for artists & makers
 - [Gumroad](https://gumroad.com) - Sell anything directly to anyone.
-- [Hingeto](https://hingeto.com) - Start your own Amazon-style marketplace.
 - [Monto](https://monto.io) - Product Reviews for Webflow (and Foxy).
 - [Podia](https://podia.com) - Easily sell memberships, online courses & digital downloads.
 - [Shopify](https://shopify.com) - Build your ecommerce store.
@@ -188,8 +189,8 @@ A curated list of delightful NoCode / LowCode applications and resources. For mo
 
 ## Forms
 
+- [ActiveCalculator](https://activecalculator.com) - Create custom calculators for your website with no-code builder.
 - [Convertigo](https://www.convertigo.com/) - Create Forms based applications with no coding.
-- [Dislack](https://dislack.com/) - Form creation for the modern maker.
 - [Feathery](https://feathery.io) - Powerful form builder for product teams
 - [FlexyForm](https://www.flexyform.com) - Contact Forms Backend as Service
 - [Formester](https://formester.com) - Form that blends with your brand theme
@@ -201,9 +202,11 @@ A curated list of delightful NoCode / LowCode applications and resources. For mo
 - [Paperform](https://paperform.co) - Beautiful Forms That Feel Like Yours
 - [Typeform](https://www.typeform.com) - Create forms and surveys that people enjoy answering
 - [Tally](https://tally.so) - The simplest way to create forms that works like a doc
+- [FormNX](https://formnx.com) - Create Powerful Forms That Converts Without Coding. It provides a lot of [form templates](https://formnx.com/form-templates), drag-n-drop interface, Smart Conditional Logic, Spam Protection, Reporting & Charts, Automation, Password Protection, integrations & lot more.
 
 ## Games
 
+- [Canvascript](https://github.com/VBproDev/Canvascript) - An open source tool for creating HTML canvas graphics without writing code.
 - [Construct](https://www.construct.net) - Game making software
 - [Yoyo Games](https://www.yoyogames.com/) - It has everything you need to take your idea from concept to finished game.
 - [GDevelop](https://gdevelop.io/) - Open source game making software
@@ -216,22 +219,22 @@ A curated list of delightful NoCode / LowCode applications and resources. For mo
 - [Retool](https://tryretool.com) - Build custom internal tools in minutes.
 - [Stream Language](https://bitspark.de/slang) - Taking the next step in programming
 - [Outcode](https://outcode.biz/) - Create data apps without code
+- [UI Bakery](https://uibakery.io) - Custom web applications at speed 🍩
 
 ## Landing Pages
 
 - [EarlyBird](https://earlybird.im) - Create landing pages to validate early-stage business ideas.
 - [Instapage](https://instapage.com) - Landing pages, up to 6x more conversions.
-- [Landen](https://landen.co) - The website builder for startups.
 - [Launchaco](https://launchaco.com) - Simple landing pages for your startup
 - [Leadpages](https://leadpages.net) - Landing page builder & lead gen software.
 - [PageXL](https://pagexl.com) - One-page website and store builder
-- [RIVYT](https://rivyt.com) - Websites for Video Creators
 - [Unbounce](https://unbounce.com) - Landing Pages - More Powerful Customization‎
 - [Destack](https://github.com/liveduo/destack) - Visual page builder for developers
 
 ## Machine Learning
 
 - [Liner.ai](https://liner.ai/) - Train deep learning models on your computer without Code.
+- [Mazaal AI](https://mazaal.ai) - No-code AI workflow platform connected with most popular 200 apps that you use daily.
 
 ## Marketing
 
@@ -255,10 +258,12 @@ A curated list of delightful NoCode / LowCode applications and resources. For mo
 - [draftbit](https://draftbit.com/) - Create, customize, and launch mobile apps all from your browser. Source code included.
 - [miniAppMaker](https://miniAppMaker.com) - Make mobile apps using Airtable!
 - [Thunkable](https://thunkable.com) - The No-Code App Builder
+- [Utilize](https://www.utilize.app) - Apps from Google Sheets, in minutes. 
+- [NotionApps](https://www.notionapps.com) - Builder powerful apps from Notion databases. Share limited views or private apps.
 
 ## Payments
 
-- [AND CO](https://www.and.co) - Invoicing, Proposals & Expense Tracking
+- [Fiverr Workspace](https://workspace.fiverr.com) - Invoicing, Proposals & Expense Tracking
 - [Paypal](https://www.paypal.com) - Send Money, Pay Online or Set Up a Merchant Account
 - [Trolley](https://trolley.link) - Get paid with no code
 
@@ -266,7 +271,6 @@ A curated list of delightful NoCode / LowCode applications and resources. For mo
 
 - [Octoparse](https://octoparse.com) - Easy Web Scraping for Anyone
 - [Parsehub](https://parsehub.com) - Free web scraping.
-- [Spider](https://tryspider.com) - Turn websites into organized data without code.
 
 ## Video
 
@@ -276,8 +280,7 @@ A curated list of delightful NoCode / LowCode applications and resources. For mo
 
 - [Darklang](https://darklang.com/) - Build an entire backend in just hours.
 - [graphqleditor](https://graphqleditor.com/) - A Better Way to GraphQL
-- [Refinery](https://www.refinery.io/) - Write a feature in less than the time it takes to have a meeting about it.
-- [Storyscript Prelaunch](https://storyscript.com/) - Magical coding notebook for tomorrow’s developer.
+- [Node-RED](https://nodered.org/) - Low-code programming for event-driven applications
 
 ## Voice
 
@@ -290,7 +293,6 @@ A curated list of delightful NoCode / LowCode applications and resources. For mo
 ## Web Apps
 
 - [Adalo](https://www.adalo.com) - Create an app without code.
-- [Boundless](https://boundlesslabs.com) - Create dynamic, multisided web applications without code.
 - [Bubble](https://bubble.io/) - Build production-ready web apps.
 - [Cloud Canal](https://www.cloudcanal.io) - Static Sites -> Web Apps
 - [Convertigo](https://www.convertigo.com/) - Create Web Applications with low code and no code
@@ -318,6 +320,7 @@ A curated list of delightful NoCode / LowCode applications and resources. For mo
 - [Universe](https://onuniverse.com) - Make an awesome website from your phone.
 - [Versoly](https://versoly.com/) - The Easiest Way to Build Your SaaS Website
 - [Webflow](https://webflow.com/) - Break the code barrier, Build better business websites, faster. Without coding.
+- [Webstudio](https://webstudio.is/) - An Open Source alternative to Webflow. Much faster. No platform lock-in.
 - [Webnode](https://www.webnode.com) - Easy & Free Website Maker
 - [Weebly](https://www.weebly.com) - Build a Free Website or Online Store
 - [Weld](https://www.weld.io) - Be creative without code – Interactive content tool
@@ -327,12 +330,19 @@ A curated list of delightful NoCode / LowCode applications and resources. For mo
 ## Uncategorized
 
 - [ApexOracle](https://apex.oracle.com/en) - Build enterprise apps 20x faster with 100x less code.
+- [BESSER](https://besser.readthedocs.io/en/latest/) - A Python-based low-modeling low-code platform for smart software 
+- [Pineify](https://pineify.app) - Best TradingView Pine Script Code Generator
 
 ---
 
 ## Tutorials
 
 - https://codeornocode.com/tutorial/how-to-build-a-low-code-platform/
+
+## Books
+
+- [Low-code handbook](https://lowcode-book.com/)
+  
 
 ## Learning
 
@@ -341,7 +351,6 @@ A curated list of delightful NoCode / LowCode applications and resources. For mo
 ## Blog Posts
 
 - http://hasura-forest-admin.surge.sh/
-- https://www.feval.ca/posts/logicapp-ci/
 - https://zapier.com/help/create/code-webhooks/use-javascript-code-in-zaps
 
 ---
